@@ -1,0 +1,4 @@
+/target
+
+wallets/*
+!wallets/README.md
